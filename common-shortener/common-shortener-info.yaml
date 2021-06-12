@@ -1,0 +1,5 @@
+# App Info 应用基本信息
+## ============== 健康检查 ===================
+app:
+  info:
+    summary: summary for shortener
